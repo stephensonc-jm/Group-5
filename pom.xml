@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>Group-5</groupId>
-    <artifactId>group-5-coursework-1</artifactId>
+    <artifactId>com.napier.sem</artifactId>
     <version>0.1.0.1</version>
 
     <properties>
