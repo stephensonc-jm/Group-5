@@ -1,2 +1,1 @@
-Group 5 test project
-![workflow](https:/github.com/stephensonc-jm/sem/actions/workflows/Update main.yml/badge.svg
+![workflow](https://github.com/stephensonc-jm/sem/actions/workflows/main.yml/badge.svg)
